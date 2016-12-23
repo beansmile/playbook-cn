@@ -42,7 +42,7 @@
 
 ![alt](http://beantalk.net/static/upload/201611/LwXQsD7ocrzkCNqgeVoja6Mm.jpg)
 
-我们对于通过介绍来的手工候选人手工建立卡片。我们的新成员表单会在提交后自动生成卡片。
+我们根据个人简介来创建 Trello 卡片。这些信息录入到新成员表单后，便自动生成卡片。
 
 我们的 CEO Chad 会负责招聘流程。他确保所有的人都得到回应，他和每个要加入的人谈话。
 
