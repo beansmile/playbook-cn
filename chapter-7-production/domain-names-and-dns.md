@@ -1,4 +1,4 @@
-# 域名和DNS
+# 域名和 DNS
 
 我们使用 [Domainr](http://domai.nr/) 来查看可用的域名
 

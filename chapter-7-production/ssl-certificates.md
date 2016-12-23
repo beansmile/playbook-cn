@@ -1,4 +1,4 @@
-# SSL证书
+# SSL 证书
 
 [从 DNSimple 购买一个通配符证书](https://dnsimple.com/ssl-certificate)。通配符（*）让你可以在 www.、staging.、api. 或者其他任意的子域名上使用同样的证书。
 

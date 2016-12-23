@@ -16,30 +16,28 @@
 
 我们的项目从便签纸和草图，到最终设计的代码实现都是以设计为导向的。我们使用设计 Sprint 和用户调查来理解我们客户的问题，验证关于产品的假设，从而构建以用户为中心的产品。
 
-**介绍产品设计Sprint**
-
-- [介绍产品设计 Sprint](chapter-1-product-design-sprint/introduction.md)
+- [产品设计 Sprints 概述](chapter-1-product-design-sprint/introduction.md)
 - [阶段 0：准备](chapter-1-product-design-sprint/phase-0-prepare.md)
 - [阶段 1：理解](chapter-1-product-design-sprint/phase-1-understand.md)
 - [阶段 2：发散](chapter-1-product-design-sprint/phase-2-diverge.md)
 - [阶段 3：汇聚](chapter-1-product-design-sprint/phase-3-converge.md)
 - [阶段 4：原型](chapter-1-product-design-sprint/phase-4-prototype.md)
-- [阶段 5：测试和了解](chapter-1-product-design-sprint/phase-5-test-and-learn.md)
+- [阶段 5：测试和反馈](chapter-1-product-design-sprint/phase-5-test-and-learn.md)
 
 **选择平台**
 
 在产品的早期阶段，我们必须确定要使用的平台。选择哪个平台取决于我们对于解决用户问题的解决方案。当充分为用户考虑之后，对于我们而言，最佳的工具要有一个活跃的社区，让我们用起来开心，并且有助于我们创建及快速迭代产品。
 
-- [“移动”是指用户，而不是设备](chapter-2-choose-platforms/mobile-refers-to-the-user-not-the-device.md)
-- [对于移动设备来说，原生应用很重要](chapter-2-native-matters-on-mobile-devices.md)
-- [Rails 可以帮助产品快速面世](chapter-2-choose-platforms/rails-gets-web-products-to-market-quickly.md)
+- [「移动」是指用户，而非设备](chapter-2-choose-platforms/mobile-refers-to-the-user-not-the-device.md)
+- [在移动设备上原生编程至关重要](chapter-2-native-matters-on-mobile-devices.md)
+- [Rails 可使 web 产品快速推向市场](chapter-2-choose-platforms/rails-gets-web-products-to-market-quickly.md)
 
 **笔记本设置**
 
 你的笔记本就是你的剑。不要上战场时忘记了带武器。
 
 - [自动化你的开发环境](chapter-3-laptop-setup/automate-your-development-environment.md)
-- [使用 dotfiles 来分享设置](chapter-3-laptop-setup/share-configuration-with-dotfiles.md)
+- [使用 dotfiles 共享设置](chapter-3-laptop-setup/share-configuration-with-dotfiles.md)
 - [使用可扩展的编辑器](chapter-3-laptop-setup/use-an-extensible-editor.md)
 
 **计划**
@@ -49,15 +47,15 @@
 - [流程要因产品和团队而定](chapter-4-planning/adapt-process-to-the-products-needs.md)
 - [每日站立会议可以建立信任和保持动量](chapter-4-planning/daily-standups-build-trust.md)
 - [没有什么比面对面沟通更有效](chapter-4-planning/in-person-communication.md)
-- [使用轻量级流程来管理优先级和使得流程可视化](chapter-4-planning/manage-priorities-with-a-lightweight-process.md)
-- [每周会面来讨论成果、错误和未来计划](chapter-4-planning/meet-weekly-to-discuss-successes-failures-and-plans.md)
+- [使用轻量级程序来管理任务优先级并可视化流程](chapter-4-planning/manage-priorities-with-a-lightweight-process.md)
+- [每周碰面讨论成果、错误和未来计划](chapter-4-planning/meet-weekly-to-discuss-successes-failures-and-plans.md)
 - [一个高效的远程团队不是偶然的产物](chapter-4-planning/working-remotely.md)
 
 **设计**
 
 我们的项目常常是快速变动的。设计师要采用对应的工具和流程来应对这种情况。
 
-- [总是带着个速写板](chapter-5-designing/always-carry-a-sketchbook.md)
+- [总是携带速写本](chapter-5-designing/always-carry-a-sketchbook.md)
 - [测试产品的可行性和可用性](chapter-5-designing/test-product-viability-and-usability.md)
 - [什么是交互设计？](chapter-5-designing/what-is-interaction-design.md)
 - [什么是用户界面设计？](chapter-5-designing/what-is-user-interface-design.md)
@@ -84,10 +82,10 @@
 - [域名和 DNS](chapter-7-production/domain-names-and-dns.md)
 - [错误追踪](chapter-7-production/error-tracking.md)
 - [主机托管](chapter-7-production/hosting.md)
-- [Log收集](chapter-7-production/log-collection.md)
-- [交易处理](chapter-7-production/payment-processing.md)
+- [日志收集](chapter-7-production/log-collection.md)
+- [支付处理](chapter-7-production/payment-processing.md)
 - [性能监控](chapter-7-production/performance-monitoring.md)
-- [产品清单](chapter-7-production/production-checklist.md)
+- [生产环境清单](chapter-7-production/production-checklist.md)
 - [SSL 证书](chapter-7-production/ssl-certificates.md)
 - [事务性邮件](chapter-7-production/transactional-email.md)
 
@@ -98,8 +96,8 @@
 - [AARRR 框架](chapter-8-measuring/aarrr.md)
 - [A/B 测试](chapter-8-measuring/ab-testing.md)
 - [功能旗标](chapter-8-measuring/feature-flags.md)
-- [测量](chapter-8-measuring/instrumentation.md)
-- [订阅量度量](chapter-8-measuring/subscription-metrics.md)
+- [度量](chapter-8-measuring/instrumentation.md)
+- [订阅指标](chapter-8-measuring/subscription-metrics.md)
 
 **我们的公司**
 
@@ -108,6 +106,6 @@
 - [招聘](chapter-9-our-company/hiring.md)
 - [运营](chapter-9-our-company/operations.md)
 - [原则](chapter-9-our-company/principles.md)
-- [销售](chapter-9-our-company/sales.md)
+- [营销](chapter-9-our-company/sales.md)
 - [分享](chapter-9-our-company/sharing.md)
 - [时间](chapter-9-our-company/time.md)

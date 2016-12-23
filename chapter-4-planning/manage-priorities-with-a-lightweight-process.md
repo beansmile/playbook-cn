@@ -1,4 +1,4 @@
-# 使用轻量级流程来管理任务优先级并可视化流程
+# 使用轻量级程序来管理任务优先级并可视化流程
 
 多年来以来，我们用过 JIRA、Pivotal Tracker、Lighthouse、Basecamp、Trajectory、Unfuddle以及其他任务管理系统。下面以 Trello 为例详细展示整个流程，不过即便使用其他系统，整体的流程也是极其相似的。
 

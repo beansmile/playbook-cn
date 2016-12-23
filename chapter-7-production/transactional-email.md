@@ -1,4 +1,4 @@
-# 事务性电子邮件
+# 事务性邮件
 
 我们使用 [SendGrid](http://sendgrid.com/)（Free-$400+/month）来向我们的用户发送被称为[事务性邮件](http://www.foundrygroup.com/wp/2010/04/foundry-group-invests-in-sendgrid/)的电子邮件。
 

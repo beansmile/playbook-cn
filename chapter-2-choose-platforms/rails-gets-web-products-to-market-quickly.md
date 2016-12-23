@@ -1,4 +1,4 @@
-# Rails帮助web产品快速推向市场
+# Rails 可使 web 产品快速推向市场
 
 从我们的经验来看，使用 [Ruby on Rails](https://thoughtbot.com/playbook/choose-platforms/rails-gets-web-products-to-market-quickly) 框架的团队比使用其他工具的团队可以更快将产品推向市场，并且总体成本更低，因为这个框架以及围绕这个框架的社区拥抱「约定大于配置」的思想。这意味着 Rails 应用的代码库之间看起来很相似，使用 Rails 的团队会发现他们在熟悉的技术领域中，可以将注意力更多放到产品本身而不是和代码搏斗。在敏捷社区和 Ruby 社区之间也有很大的交集，这意味着 Ruby 程序员（除常规之外）更愿意写测试，使用面向对象设计，以及避免重复的代码。
 

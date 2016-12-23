@@ -1,4 +1,4 @@
-# 代码风格规范
+# 代码风格
 
 我们用[一致的代码风格](https://github.com/thoughtbot/guides/tree/master/style)来写代码，强调代码的整洁性以及团队沟通。
 
