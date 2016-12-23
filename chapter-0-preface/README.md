@@ -1,24 +1,24 @@
 # 这是我们的playbook
 
-**我们和各种规模的团队合作，在iOS、Android和Web平台上设计、开发并推广他们的产品。**
+**我们和各种规模的团队合作，在 iOS、Android 和 Web 平台上设计、开发并推广他们的产品。**
 
-**这是我们的playbook**
+**这是我们的 playbook**
 
-我们是[thoughtbot.](https://thoughtbot.com/).我们和世界各地的上百个产品团队合作过，他们中既有自筹资金的个人创业者，也有庞大的跨国公司。我们也创建了自己的产品，同时有若干个开源项目。
+我们是 [thoughtbot](https://thoughtbot.com/)。我们和世界各地的上百个产品团队合作过，他们中既有自筹资金的个人创业者，也有庞大的跨国公司。我们也创建了自己的产品，同时有若干个开源项目。
 
-这是我们的playbook。它解释了我们是如何创建成功的Web和移动产品，以及我们是如何运营公司的。书中充满了我们自身的经验以及研究其他团队的心得。
+这是我们的 playbook。它解释了我们是如何创建成功的 Web 和移动产品，以及我们是如何运营公司的。书中充满了我们自身的经验以及研究其他团队的心得。
 
-这是一份鲜活的文档，它位于thoughtbot的私有Github repo中，团队的每个成员都可以编辑它。
+这是一份鲜活的文档，它位于 thoughtbot 的私有 GitHub repo 中，团队的每个成员都可以编辑它。
 
-我们使用自由的Creative Commons Attribution-NonCommercial 协议来分发这份文档，你可以学习或者在自己的公司运用我们的策略。虽然这些策略对我们有用，但是哪些工具和技术适合你自己的情况，相信你比我们更清楚。
+我们使用自由的 Creative Commons Attribution-NonCommercial 协议来分发这份文档，你可以学习或者在自己的公司运用我们的策略。虽然这些策略对我们有用，但是哪些工具和技术适合你自己的情况，相信你比我们更清楚。
 
-**产品设计Sprint**
+**产品设计 Sprint**
 
-我们的项目是设计导向的，从告示贴和草图开始，到设计以及代码实现为终结。我们使用设计Sprint和用户调查来理解我们客户的问题，验证关于产品的假设，从而构建以用户为中心的产品
+我们的项目是设计导向的，从告示贴和草图开始，到设计以及代码实现为终结。我们使用设计 Sprint 和用户调查来理解我们客户的问题，验证关于产品的假设，从而构建以用户为中心的产品。
 
 **介绍产品设计Sprint**
 
-- [介绍产品设计Sprint](chapter-1-product-design-sprint/introduction.md)
+- [介绍产品设计 Sprint](chapter-1-product-design-sprint/introduction.md)
 - [阶段 0：准备](chapter-1-product-design-sprint/phase-0-prepare.md)
 - [阶段 1：理解](chapter-1-product-design-sprint/phase-1-understand.md)
 - [阶段 2：发散](chapter-1-product-design-sprint/phase-2-diverge.md)
@@ -66,7 +66,7 @@
 
 **开发**
 
-我们开发实践主要参考Kent Beck经典的[Extreme Programming Explained: Embrace Change](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition-ebook/dp/B000OZ0N5S/ref=tmm_kin_title_0)   以及Gerald Weinberg的[The Psychology of Computer Programming](http://www.amazon.com/The-Psychology-Computer-Programming-Anniversary/dp/0932633420). 我们尝试后发现，在大多数情况下使用其中大多数的原则改善了我们的工作质量，并提升了我们团队的幸福感。
+我们开发实践主要参考 Kent Beck 经典的 [Extreme Programming Explained: Embrace Change](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition-ebook/dp/B000OZ0N5S/ref=tmm_kin_title_0) 以及 Gerald Weinberg 的 [The Psychology of Computer Programming](http://www.amazon.com/The-Psychology-Computer-Programming-Anniversary/dp/0932633420)。我们尝试后发现，在大多数情况下使用其中大多数的原则改善了我们的工作质量，并提升了我们团队的幸福感。
 
 - [验收测试](chapter-6-developing/acceptance-tests.md)
 - [代码审查](chapter-6-developing/code-reviews.md)
@@ -93,7 +93,7 @@
 
 **度量**
 
-度量的难点在于决定要追踪什么。Dave McClure的 [AARRR](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-nov-2012) 框架提供了一个重要指标的总览。我们使用事件追踪等技巧来测量这些指标。
+度量的难点在于决定要追踪什么。Dave McClure 的 [AARRR](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-nov-2012) 框架提供了一个重要指标的总览。我们使用事件追踪等技巧来测量这些指标。
 
 - [AARRR 框架](chapter-8-measuring/aarrr.md)
 - [A/B 测试](chapter-8-measuring/ab-testing.md)

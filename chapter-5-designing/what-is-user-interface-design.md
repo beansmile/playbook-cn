@@ -1,6 +1,7 @@
 # 什么是用户界面设计？
 
-> 交互界面是两种东西相遇的地方：人类和计算机。计算机有可以运行的功能。人类需要利用这些功能来进行输入和输出。交互界面是安排输入输出的地方，使得人们使用计算机的能力来获得他们需要的产出。[-Ryan Singer](http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-confuses-matters)
+> 交互界面是两种东西相遇的地方：人类和计算机。计算机有可以运行的功能。人类需要利用这些功能来进行输入和输出。交互界面是安排输入输出的地方，使得人们使用计算机的能力来获得他们需要的产出。
+> -[Ryan Singer](http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-confuses-matters)
 
 在软件中，用户界面是指为了完成目标而提供的一个个独立的视图。
 

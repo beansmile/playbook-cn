@@ -4,47 +4,47 @@
 
 **博客**
 
-我们的博客叫做：GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS.
+我们的博客叫做：GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS。
 
-我们使用Editorial Calendar这个Trello看板来协调和发布我们的博客。
+我们使用 Editorial Calendar 这个 Trello 看板来协调和发布我们的博客。
 
-当有人要写博客的时候，他在Next up列表中用标题写一个Trello 卡片，并将任务指派给他自己。
+当有人要写博客的时候，他在 Next up 列表中用标题写一个 Trello 卡片，并将任务指派给他自己。
 
 花点时间写一个很棒的标题。它有助于你汇聚焦点，明确文章的目的，并第一时间抓住读者的注意力。
 
-当我们开始协作，我们把Trello卡片拖动到“Draft：列表。
+当我们开始协作，我们把 Trello 卡片拖动到「Draft」列表。
 
-我们用Markdown书写博客，并存放在我们GitHub上博客的仓库中。我们为文章添加标签，这样可以帮助我们的读者找到相关文章。
+我们用 Markdown 书写博客，并存放在我们 GitHub 上博客的仓库中。我们为文章添加标签，这样可以帮助我们的读者找到相关文章。
 
-当我们准备好接受团队成员的反馈，我们将卡片拖动到”In Reivew“列，并在Slack分享Trello卡片的链接。我们在大家的反馈和我们自己的判断的基础上来修改文章。
+当我们准备好接受团队成员的反馈，我们将卡片拖动到「In Reivew」列，并在 Slack 分享 Trello 卡片的链接。我们在大家的反馈和我们自己的判断的基础上来修改文章。
 
 当文章可以发布了，我们设置一个发布时间，合并，并发布文章。
 
-我们的RSS源，Zapier，Buffer 账号已经设置好了可以自动工作，他们可以自动链接我们的文章到Twitter, Facebook, Google+, 和 LinkedIn.
+我们的 RSS 源、Zapier、Buffer 账号已经设置好了可以自动工作，他们可以自动链接我们的文章到 Twitter、Facebook、Google+ 和 LinkedIn。
 
-我们也将文章链接到Hacker News, Reddit, Delicious, Pinboard以及其他合适的网站
+我们也将文章链接到 Hacker News、Reddit、Delicious、Pinboard 以及其他合适的网站
 
-最后我们把Trello卡片拖动到“Live”列。
+最后我们把 Trello 卡片拖动到「Live」列。
 
 **Twitter**
 
-团队的每个人都可以访问我们的thoughtbot Twitter账号。如果这条tweet不是和时间关系不大，我们就使用Buffer来按照一定的时间计划来发布。
+团队的每个人都可以访问我们的 thoughtbot Twitter 账号。如果这条 tweet 不是和时间关系不大，我们就使用 Buffer 来按照一定的时间计划来发布。
 
-我们希望我们的Twitter账号是互动的，随意的，真实的。我们像是面对真人一样谈吐，并要有幽默感。鼓励使用双关语。我们致力于保持高质量，希望每条tweet都能成为一个暗示。我们着力避免拼写错误，使用正确的标点符号。我们要组中follow我们的人。
+我们希望我们的 Twitter 账号是互动的、随意的、真实的。我们像是面对真人一样谈吐，并要有幽默感。鼓励使用双关语。我们致力于保持高质量，希望每条 tweet 都能成为一个暗示。我们着力避免拼写错误，使用正确的标点符号。我们要组中 follow 我们的人。
 
-和尽量多的听众沟通，不要以一个Twitter用户名开始一条tweet。
+和尽量多的听众沟通，不要以一个 Twitter 用户名开始一条 tweet。
 
-一些tweet的创意包括宣布聚会，开源项目发布，关于新工具或者技术的热情宣传，Git、Unix和Vim的技巧，到我们博客的链接，以及现在还没有在Hacker News或者Twitter上发布的优秀的博客文章。
+一些 tweet 的创意包括宣布聚会，开源项目发布，关于新工具或者技术的热情宣传，Git、Unix 和 Vim 的技巧，到我们博客的链接，以及现在还没有在 Hacker News 或者 Twitter 上发布的优秀的博客文章。
 
-我们拥有一个认证的Twitter账号，我们也是Twitter Ads客户。使用这些工具我们可以分析我们的retweets, favorites, replies, clicks, follows, unfollows，以及不同的tweet之间的吸引力。
+我们拥有一个认证的 Twitter 账号，我们也是 Twitter Ads 客户。使用这些工具我们可以分析我们的 retweets、favorites、replies、clicks、follows、unfollows，以及不同的 tweet 之间的吸引力。
 
-Tweet的推广活动是短期带来流量的最佳方式。每次活动确定目标为10-25个相近的、相关的用户名。创建不同主题的活动，我们可以追踪每次主题的表现。
+Tweet 的推广活动是短期带来流量的最佳方式。每次活动确定目标为 10-25 个相近的、相关的用户名。创建不同主题的活动，我们可以追踪每次主题的表现。
 
 **调研**
 
-我们在“Research”Trello看板追踪我们进行中的实验。
+我们在「Research」Trello 看板追踪我们进行中的实验。
 
-我们严密地对新工具和新技术进行实验。一旦实验完成，我们在适当的渠道发布实验结果。可以是这个Playbook，我们的博客、twitter或者其他地方。
+我们严密地对新工具和新技术进行实验。一旦实验完成，我们在适当的渠道发布实验结果。可以是这个 Playbook，我们的博客、twitter 或者其他地方。
 
 **开源**
 
@@ -52,20 +52,20 @@ Tweet的推广活动是短期带来流量的最佳方式。每次活动确定目
 
 当有个人负责维护时我们的开源项目可以做的更好。每个代码仓库都有一个负责人来确保持续前行。负责人不一定要做大量的实际工作，他的责任应该包括：
 
-- 理解底层代码和代码库的目标
-- 评审和合并pull request
-- 回复和关闭缺陷报告
-- 合适的时候发布新的gem
+- 理解底层代码和代码库的目标。
+- 评审和合并 pull request。
+- 回复和关闭缺陷报告。
+- 合适的时候发布新的 gem。
 - 鼓励人们从代码库中领取有用的任务。
-- 写博客、tweet以及用其他推广方式来宣布新版本发布和技巧。
+- 写博客、tweet 以及用其他推广方式来宣布新版本发布和技巧。
 
-我们在Investment Time看板记录当前开源项目的负责人。
+我们在 Investment Time 看板记录当前开源项目的负责人。
 
-每个thoughtbot的开发人员、设计师和新人都有我们开源项目的提交权限，我们遵守如下规范：
+每个 thoughtbot 的开发人员、设计师和新人都有我们开源项目的提交权限，我们遵守如下规范：
 
 - 你可以和项目负责人交流对项目的建议，以及他是不是愿意接纳你的想法。
-- 发pull request而不是直接向master提交代码。
-- 试着帮助已有的pull request或者缺陷报告。
+- 发 pull request 而不是直接向 master 提交代码。
+- 试着帮助已有的 pull request 或者缺陷报告。
 - 为文档打补丁是了解项目的好方法。
 
 有新的想法？在客户项目中发现了有用且可以重用的部分？非常好！一些规范：
@@ -74,6 +74,6 @@ Tweet的推广活动是短期带来流量的最佳方式。每次活动确定目
 - 如果你创建一个新的库，你要负责这个项目，至少是开始阶段。确定你有时间来维护它。
 - 不要尝试重新发明轮子。做一下调研，确保你的问题还没有被解决。
 - 在客户项目时间内修复影响客户项目的缺陷或者增加可以真的帮助客户项目的新特性是可以的。决大部分开源工作应该是周五的投资时间内完成。
-- 想一想你的创意是不是作为一个已有项目的pull request更合理。
+- 想一想你的创意是不是作为一个已有项目的 pull request 更合理。
 
 [原文链接](https://thoughtbot.com/playbook/our-company/sharing)
