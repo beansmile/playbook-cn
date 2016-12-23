@@ -8,13 +8,13 @@
 
 这是我们的 playbook。它解释了我们是如何创建成功的 Web 和移动产品，以及我们是如何运营公司的。书中充满了我们自身的经验以及研究其他团队的心得。
 
-这是一份鲜活的文档，它位于 thoughtbot 的私有 GitHub repo 中，团队的每个成员都可以编辑它。
+这是一份未定稿的文档，团队的每一位成员都可以在 thoughtbot 的私有 GitHub 仓库中编辑它。
 
 我们使用自由的 Creative Commons Attribution-NonCommercial 协议来分发这份文档，你可以学习或者在自己的公司运用我们的策略。虽然这些策略对我们有用，但是哪些工具和技术适合你自己的情况，相信你比我们更清楚。
 
 **产品设计 Sprint**
 
-我们的项目是设计导向的，从告示贴和草图开始，到设计以及代码实现为终结。我们使用设计 Sprint 和用户调查来理解我们客户的问题，验证关于产品的假设，从而构建以用户为中心的产品。
+我们的项目从便签纸和草图，到最终设计的代码实现都是以设计为导向的。我们使用设计 Sprint 和用户调查来理解我们客户的问题，验证关于产品的假设，从而构建以用户为中心的产品。
 
 **介绍产品设计Sprint**
 
@@ -57,7 +57,7 @@
 
 我们的项目常常是快速变动的。设计师要采用对应的工具和流程来应对这种情况。
 
-- [总是带这个速写板](chapter-5-designing/always-carry-a-sketchbook.md)
+- [总是带着个速写板](chapter-5-designing/always-carry-a-sketchbook.md)
 - [测试产品的可行性和可用性](chapter-5-designing/test-product-viability-and-usability.md)
 - [什么是交互设计？](chapter-5-designing/what-is-interaction-design.md)
 - [什么是用户界面设计？](chapter-5-designing/what-is-user-interface-design.md)

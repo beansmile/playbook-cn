@@ -26,7 +26,7 @@
   - [每周会面来讨论成果、错误和未来计划](chapter-4-planning/meet-weekly-to-discuss-successes-failures-and-plans.md)
   - [一个高效的远程团队不是偶然的产物](chapter-4-planning/working-remotely.md)
 * 设计
-  - [总是带这个速写板](chapter-5-designing/always-carry-a-sketchbook.md)
+  - [总是带着个速写板](chapter-5-designing/always-carry-a-sketchbook.md)
   - [测试产品的可行性和可用性](chapter-5-designing/test-product-viability-and-usability.md)
   - [什么是交互设计？](chapter-5-designing/what-is-interaction-design.md)
   - [什么是用户界面设计？](chapter-5-designing/what-is-user-interface-design.md)

@@ -29,13 +29,13 @@ Segment 为我们的 web 应用提供一个 JavaScript 库，为我们的服务�
 - 升级订阅
 - 推荐朋友
 
-自由地记录事件中的属性。通常包括
+充分使用各种事件属性，例如：
 
 - session ID
 - 所有用户属性
-- 环境：操作系统，应用的版本，设备硬件细节。
+- 环境：操作系统，应用的版本，设备硬件细节
 - 当前电量、Wi-Fi、手机状态
-- 进入 session 需要的时间。
+- 会话持续时长，精确到秒数
 
 [商业分析不必是实时的](http://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)，记录数据不应该让用户体验慢下来。所以，我们针对每个平台尽可能使用后台任务来执行这些任务。例如 [Delayed Job](https://github.com/collectiveidea/delayed_job) 和 [Resque](https://github.com/resque/resque)。
 
