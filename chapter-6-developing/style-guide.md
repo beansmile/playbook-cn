@@ -9,6 +9,6 @@
 - 没有足够好的理由，不要破坏规范。
 - 如果你能说服队友，那就是一个好的理由。
 
-福利：[beansmile代码风格规范](https://beansmile.gitbooks.io/styleguide/content/)
+福利：[beansmile 代码风格规范](https://beansmile.gitbooks.io/styleguide/content/)
 
 [原文链接](https://thoughtbot.com/playbook/developing/style-guide)

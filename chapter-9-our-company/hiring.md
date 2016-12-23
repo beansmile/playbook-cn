@@ -3,12 +3,12 @@
 我们不是客户的长期团队解决方案，他们常常会问：
 
 - 我怎么找到技术合伙人？
-- 我怎么学会“自己动手”？
+- 我怎么学会「自己动手」？
 - 我怎么招聘设计师和开发人员？
 
 我们告诉他们：
 
-- 要找到技术合伙人，到用户组、Linkedin和AngelList中找。你真的需要一个[设计合伙人](http://www.designstaff.org/articles/does-your-startup-need-a-design-co-founder-2012-01-12.html)吗？
+- 要找到技术合伙人，到用户组、Linkedin 和 AngelList 中找。你真的需要一个[设计合伙人](http://www.designstaff.org/articles/does-your-startup-need-a-design-co-founder-2012-01-12.html)吗？
 - 要学会做我们做的东西，来我们的办公室几个星期，和我们结对编程，一起手绘设计。
 - 要招到人，按照我们的流程来操作，具体在下面列出
 
@@ -20,46 +20,45 @@
 - User groups
 - [Dev Bootcamp](http://devbootcamp.com/)
 - [Authentic Jobs](http://www.authenticjobs.com/)
-- [Stack Overflow Careers
-](http://careers.stackoverflow.com/)
+- [Stack Overflow Careers](http://careers.stackoverflow.com/)
 
-我们遇到Josh因为他给[Clearance](http://github.com/thoughtbot/clearance)提交了优秀的补丁。当时他还在密歇根。部分是因为他们在开源项目上的贡献，我们从遥远的印度和泰国招聘到很好的开发人员。我们帮助他们搬到了我们有办公室的城市。
+我们遇到 Josh 因为他给 [Clearance](http://github.com/thoughtbot/clearance) 提交了优秀的补丁。当时他还在密歇根。部分是因为他们在开源项目上的贡献，我们从遥远的印度和泰国招聘到很好的开发人员。我们帮助他们搬到了我们有办公室的城市。
 
-很多我们的成员经常出现在Ruby、JavaScript、Vim和Redis的用户组中。我们在Boston Ruby Group遇到了Ben，Joel和Mason。
+很多我们的成员经常出现在 Ruby、JavaScript、Vim 和 Redis 的用户组中。我们在 Boston Ruby Group 遇到了 Ben、Joel 和 Mason。
 
-关于这种聚会的一个好处是它是自然而然发生的。我们不会在GitHub上滥发信息或者在用户组和会议上钓鱼。不管怎样，我们都在那儿。即便是我们不招聘，我们也会写和使用开源软件。我们仍然会加入邮件列表和参加聚会。
+关于这种聚会的一个好处是它是自然而然发生的。我们不会在 GitHub 上滥发信息或者在用户组和会议上钓鱼。不管怎样，我们都在那儿。即便是我们不招聘，我们也会写和使用开源软件。我们仍然会加入邮件列表和参加聚会。
 
 我们知道如果按照上面的方式招聘，我们能得到什么样的人才。我们从用户组知道他们的性格和能力。我们从开源项目知道他们的编码风格。我们知道他们会积极主动因为他们自愿给社区做贡献。
 
-我们在Dev Bootcamp遇到Jessie和Laila。他们通过了[apprentice.io](http://apprentice.io/)（thoughtbot家的培训服务），Adarsh, Draper, Edwin, Diana, Melissa, Joël, Lisa, Lydia, Rich, Christian, 和 Tony也是.
+我们在 Dev Bootcamp 遇到 Jessie 和 Laila。他们通过了 [apprentice.io](http://apprentice.io/)（thoughtbot家的培训服务），Adarsh、Draper、Edwin、Diana、Melissa、Joël、Lisa、Lydia、Rich、Christian 和 Tony 也是。
 
-我们也在Authentic Jobs上找到了很好的设计师，在Stack Overflow Careers上找到了iOS开发人员。
+我们也在 Authentic Jobs 上找到了很好的设计师，在 Stack Overflow Careers 上找到了 iOS 开发人员。
 
 我们没有使用外部招聘方式。我们发现他们没办法找到适合我们团队的人，而且对于他们提供的候选人资料也靠不住。总体来说，不值得花时间过滤那些不合格的候选人。
 
 面试
 
-我们在“Hiring”这个看板上建立[Trello](http://trello.com/)卡片追踪我们每个候选人的面试流程。
+我们在「Hiring」这个看板上建立 [Trello](http://trello.com/) 卡片追踪我们每个候选人的面试流程。
 
 ![alt](http://beantalk.net/static/upload/201611/LwXQsD7ocrzkCNqgeVoja6Mm.jpg)
 
 我们对于通过介绍来的手工候选人手工建立卡片。我们的新成员表单会在提交后自动生成卡片。
 
-我们的CEO，Chad，会负责招聘流程。他确保所有的人都得到回应，他和每个要加入的人谈话。
+我们的 CEO Chad 会负责招聘流程。他确保所有的人都得到回应，他和每个要加入的人谈话。
 
-每个人都可以对候选人做第一轮审查。尤其是审查候选人的样例代码或者项目经历。如果必要他们会找另一个人（设计师或者iOS开发人员）来一起看代码和项目经历。
+每个人都可以对候选人做第一轮审查。尤其是审查候选人的样例代码或者项目经历。如果必要他们会找另一个人（设计师或者 iOS 开发人员）来一起看代码和项目经历。
 
-我们要么发拒信，要么基于[这个模版](https://gist.github.com/croaky/3e12ff226d6b04451fe8)发送邮件，并将卡片拖到”Non-Technical Interview"。
+我们要么发拒信，要么基于[这个模版](https://gist.github.com/croaky/3e12ff226d6b04451fe8)发送邮件，并将卡片拖到「Non-Technical Interview」。
 
-Chad会将管理总监、设计师、开发人员安排进后续的讨论中，将他们的头像放到卡片上，这样大家总是知道谁在负责。
+Chad 会将管理总监、设计师、开发人员安排进后续的讨论中，将他们的头像放到卡片上，这样大家总是知道谁在负责。
 
-在技术面试中我们针对iOS developers, Rails developers和设计师有一些标准问题。我们不用考题或者代码测试。相反，我们喜欢审查候选人做过的实际工作，和他们谈论设计过程，架构问题，然后写代码。我们每天都在做的事情。
+在技术面试中我们针对 iOS developers、Rails developers 和设计师有一些标准问题。我们不用考题或者代码测试。相反，我们喜欢审查候选人做过的实际工作，和他们谈论设计过程，架构问题，然后写代码。我们每天都在做的事情。
 
-最后一步是候选人来我们办公室待一天。我们付他们的机票和三晚的酒店（星期四休息好，星期五和我们一起工作一天，星期五晚上享受一下，星期六游览下城市，星期天飞回家）
+最后一步是候选人来我们办公室待一天。我们付他们的机票和三晚的酒店（星期四休息好，星期五和我们一起工作一天，星期五晚上享受一下，星期六游览下城市，星期天飞回家）。
 
 在一起工作的那天，候选人上午和我们一个开发人员[结对编程](http://www.extremeprogramming.org/rules/pair.html)，下午换另一个。
 
-设计师和在早上结对编程做一个小的产品设计，下午4点做演示。主要内容做手绘和1-2个thoughtbot的设计师结对编程。
+设计师和在早上结对编程做一个小的产品设计，下午 4 点做演示。主要内容做手绘和 1-2 个 thoughtbot 的设计师结对编程。
 
 我们用这种方式面试是因为看到候选人是如何真实工作以及和团队互动是不可替代的。我们也希望候选人自己也体会下公司是如何运作的。
 
@@ -69,11 +68,11 @@ Chad会将管理总监、设计师、开发人员安排进后续的讨论中，�
 
 录取和入职
 
-我们使用[RightSignature](https://rightsignature.com/) ($14-$49/month) 来发送录取通知，并使用它来签字，避免双方”打印并签字“的流程。
+我们使用 [RightSignature](https://rightsignature.com/)（$14-$49/month）来发送录取通知，并使用它来签字，避免双方「打印并签字」的流程。
 
-录取通知至少要有一个C-level（CXO）的领导团队成员审查后才可以发送。C-level领导和管理总监可以代表thoughtbot发送录取通知。
+录取通知至少要有一个 C-level（CXO）的领导团队成员审查后才可以发送。C-level 领导和管理总监可以代表 thoughtbot 发送录取通知。
 
-当录取通知被接受后，我们运行一个自定义的入职脚本。它会为队友创建邮件地址，给他们访问GitHub和Slack等系统的权限，发送他们的员工协议，通知财务，给队友发一封欢迎邮件，给HR经理创建一个任务列表，列出需要手动处理的事项。
+当录取通知被接受后，我们运行一个自定义的入职脚本。它会为队友创建邮件地址，给他们访问 GitHub 和 Slack 等系统的权限，发送他们的员工协议，通知财务，给队友发一封欢迎邮件，给 HR 经理创建一个任务列表，列出需要手动处理的事项。
 
 我们给新成员安排一个拍档来引导他们度过第一天。这个拍档帮助他们设置好电脑，购买必要的软件，用加他们的资料到我们网站的方式来走完一个开发环节。这个拍档也会让他们觉得安心，回答他们的问题或者指给能回答问题的那个人。
 
@@ -92,7 +91,7 @@ Chad会将管理总监、设计师、开发人员安排进后续的讨论中，�
 - 创造了优秀的软件
 - 使得用户、队友和客户开心
 - 学到了新东西提升自己
-- 通过带来业务、指导队友，为内部工具或者调研做贡献改进了thoughtbot。
+- 通过带来业务、指导队友，为内部工具或者调研做贡献改进了 thoughtbot。
 - 通过写博客、为开源软件做贡献或者参加会议改进了我们的社区。
 - 做了其他没有列在这里的事情。
 
@@ -104,7 +103,7 @@ Chad会将管理总监、设计师、开发人员安排进后续的讨论中，�
 
 为了持续改善我们自己和公司，全年内我们都收到来自客户，管理者以及队友对各个项目的反馈。我们有正式的季度评审。
 
-在入职时，一个”Quarterly Review”日历事件就被创建了，并被设置成没三个月一次，从雇佣那天算起。
+在入职时，一个「Quarterly Review」日历事件就被创建了，并被设置成每三个月一次，从雇佣那天算起。
 
 在季度评审之前，我们的管理者从所有合作过的人，办公室的每一个人那里收集匿名反馈。在评审之前，团队的反馈是大家共享的。
 
@@ -114,7 +113,9 @@ Chad会将管理总监、设计师、开发人员安排进后续的讨论中，�
 - 我们在最近咨询项目上的表现
 - 我们的投资时间贡献
 - 我们对工作、项目和公司的满意度
-- 我们对于thoughtbot和我们战略的问题
+- 我们对于 thoughtbot 和我们战略的问题
 - 我们下个季度的重点
 
 季度审查报告被记录下来，并影响下次的待遇调整。
+
+[原文链接](https://thoughtbot.com/playbook/our-company/hiring)
