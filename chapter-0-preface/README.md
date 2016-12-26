@@ -6,15 +6,15 @@
 
 我们是 [thoughtbot](https://thoughtbot.com/)。我们和世界各地的上百个产品团队合作过，他们中既有自筹资金的个人创业者，也有庞大的跨国公司。我们也创建了自己的产品，同时有若干个开源项目。
 
-这是我们的 playbook。它解释了我们是如何创建成功的 Web 和移动产品，以及我们是如何运营公司的。书中充满了我们自身的经验以及研究其他团队的心得。
+这是我们的 playbook。它详细解释了我们是如何创建成功的 web 和移动产品，以及如何运营公司。书中充满了我们自身的经验以及研究其他团队的心得。
 
-这是一份未定稿的文档，团队的每一位成员都可以在 thoughtbot 的私有 GitHub 仓库中编辑它。
+这是一份未定稿的文档，thoughtbot 中的每一位成员都可以在一个私有 GitHub 仓库中编辑它。
 
-我们使用自由的 Creative Commons Attribution-NonCommercial 协议来分发这份文档，你可以学习或者在自己的公司运用我们的策略。虽然这些策略对我们有用，但是哪些工具和技术适合你自己的情况，相信你比我们更清楚。
+我们使用 Creative Commons Attribution-NonCommercial 协议来发布这份文档，你可以学习或者在自己的公司运用我们的策略。虽然这些策略对我们有用，但是哪些工具和技术适合你自己的情况，相信你比我们更清楚。
 
 **产品设计 Sprint**
 
-我们的项目从便签纸和草图，到最终设计的代码实现都是以设计为导向的。我们使用设计 Sprint 和用户调查来理解我们客户的问题，验证关于产品的假设，从而构建以用户为中心的产品。
+我们的项目从便签纸和草图，到最终落实到代码实现的整个过程中，都是以设计为导向的。我们使用设计 Sprint 和用户调查来理解我们客户的问题，验证产品假设，构建以用户为中心的产品。
 
 - [产品设计 Sprints 概述](chapter-1-product-design-sprint/introduction.md)
 - [阶段 0：准备](chapter-1-product-design-sprint/phase-0-prepare.md)
@@ -26,7 +26,7 @@
 
 **选择平台**
 
-在产品的早期阶段，我们必须确定要使用的平台。选择哪个平台取决于我们对于解决用户问题的解决方案。当充分为用户考虑之后，对于我们而言，最佳的工具要有一个活跃的社区，让我们用起来开心，并且有助于我们创建及快速迭代产品。
+在产品的早期阶段，我们必须确定要使用的平台。选择哪个平台取决于我们解决用户问题的方案。除了考虑对用户而言是最好之外，我们认为最佳的工具还需要有一个活跃的社区，让我们乐于使用，并且有助于创建产品然后快速迭代。
 
 - [「移动」是指用户，而非设备](chapter-2-choose-platforms/mobile-refers-to-the-user-not-the-device.md)
 - [在移动设备上原生编程至关重要](chapter-2-native-matters-on-mobile-devices.md)
@@ -34,26 +34,26 @@
 
 **笔记本设置**
 
-你的笔记本就是你的剑。不要上战场时忘记了带武器。
+你的笔记本就是你的剑。不要打没准备的仗。
 
 - [自动化你的开发环境](chapter-3-laptop-setup/automate-your-development-environment.md)
-- [使用 dotfiles 共享设置](chapter-3-laptop-setup/share-configuration-with-dotfiles.md)
+- [使用 dotfiles 共享笔记本设置](chapter-3-laptop-setup/share-configuration-with-dotfiles.md)
 - [使用可扩展的编辑器](chapter-3-laptop-setup/use-an-extensible-editor.md)
 
 **计划**
 
-我们工作流程的一个主要目标是持续发布可以工作的小版本。我们通过频繁沟通和每周迭代来达到这一目标。
+我们工作流程的一个主要目标是持续发布可以工作的小版本。我们通过频繁沟通和每周迭代来完成产品开发计划。
 
 - [流程要因产品和团队而定](chapter-4-planning/adapt-process-to-the-products-needs.md)
-- [每日站立会议可以建立信任和保持动量](chapter-4-planning/daily-standups-build-trust.md)
-- [没有什么比面对面沟通更有效](chapter-4-planning/in-person-communication.md)
+- [每日站立会议可以建立信任和保持冲劲](chapter-4-planning/daily-standups-build-trust.md)
+- [没有比当面沟通更有效的沟通方式](chapter-4-planning/in-person-communication.md)
 - [使用轻量级程序来管理任务优先级并可视化流程](chapter-4-planning/manage-priorities-with-a-lightweight-process.md)
 - [每周碰面讨论成果、错误和未来计划](chapter-4-planning/meet-weekly-to-discuss-successes-failures-and-plans.md)
 - [一个高效的远程团队不是偶然的产物](chapter-4-planning/working-remotely.md)
 
 **设计**
 
-我们的项目常常是快速变动的。设计师要采用对应的工具和流程来应对这种情况。
+我们的项目常常是快速变动的。设计师要采用合适的工具和流程来应对这种情况。
 
 - [总是携带速写本](chapter-5-designing/always-carry-a-sketchbook.md)
 - [测试产品的可行性和可用性](chapter-5-designing/test-product-viability-and-usability.md)
@@ -64,7 +64,7 @@
 
 **开发**
 
-我们开发实践主要参考 Kent Beck 经典的 [Extreme Programming Explained: Embrace Change](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition-ebook/dp/B000OZ0N5S/ref=tmm_kin_title_0) 以及 Gerald Weinberg 的 [The Psychology of Computer Programming](http://www.amazon.com/The-Psychology-Computer-Programming-Anniversary/dp/0932633420)。我们尝试后发现，在大多数情况下使用其中大多数的原则改善了我们的工作质量，并提升了我们团队的幸福感。
+我们的开发实践主要参考 Kent Beck 经典的 [Extreme Programming Explained: Embrace Change](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition-ebook/dp/B000OZ0N5S)，以及 Gerald Weinberg 的 [The Psychology of Computer Programming](http://www.amazon.com/The-Psychology-Computer-Programming-Anniversary/dp/0932633420)。我们尝试后发现，在多数情况下使用其中的大部分原则改善了我们的工作质量，并提升了团队的幸福感。
 
 - [验收测试](chapter-6-developing/acceptance-tests.md)
 - [代码审查](chapter-6-developing/code-reviews.md)
@@ -77,7 +77,7 @@
 
 **生产环境**
 
-我们生活在一个魔幻的新纪元，我们的很多问题都已经有了解决方案。我们尽可能地聚焦在产品的核心，尽量将可以分发出去的操作交给外部服务来做。
+我们生活在一个魔幻的新纪元，很多问题都已经有了解决方案。我们尽可能地聚焦在核心产品，尽量将可分发出去的工作交给外部服务来做。
 
 - [域名和 DNS](chapter-7-production/domain-names-and-dns.md)
 - [错误追踪](chapter-7-production/error-tracking.md)
@@ -91,7 +91,7 @@
 
 **度量**
 
-度量的难点在于决定要追踪什么。Dave McClure 的 [AARRR](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-nov-2012) 框架提供了一个重要指标的总览。我们使用事件追踪等技巧来测量这些指标。
+度量的难点在于决定要追踪什么。Dave McClure 的 [AARRR 框架](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-nov-2012) 为重要指标提供了一个高层次的概述。我们使用事件追踪等技巧来测量那些指标。
 
 - [AARRR 框架](chapter-8-measuring/aarrr.md)
 - [A/B 测试](chapter-8-measuring/ab-testing.md)
@@ -101,7 +101,7 @@
 
 **我们的公司**
 
-我们相信可以不断找到更好的工作方式，我们期待可以找到它并和尽可能多的人分享。
+我们相信总是可以找到更好的工作方式，因此我们期待可以找到它并和分享给尽可能多的人。
 
 - [招聘](chapter-9-our-company/hiring.md)
 - [运营](chapter-9-our-company/operations.md)
