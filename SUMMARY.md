@@ -12,7 +12,7 @@
   - [阶段 5：测试和了解](chapter-1-product-design-sprint/phase-5-test-and-learn.md)
 * 选择平台
   - [「移动」是指用户，而不是设备](chapter-2-choose-platforms/mobile-refers-to-the-user-not-the-device.md)
-  - [对于移动设备来说，原生应用很重要](chapter-2-choose-platforms/native-matters-on-mobile-devices.md)
+  - [在移动设备上原生编程至关重要](chapter-2-choose-platforms/native-matters-on-mobile-devices.md)
   - [Rails 可以帮助产品快速面世](chapter-2-choose-platforms/rails-gets-web-products-to-market-quickly.md)
 * 笔记本设置
   - [自动化你的开发环境](chapter-3-laptop-setup/automate-your-development-environment.md)
