@@ -12,7 +12,7 @@
 
 - 所有现代的智能手机都可以渲染 HTML。
 - [Bourbon](https://github.com/thoughtbot/bourbon) 和 [Neat](https://github.com/thoughtbot/neat) 使得响应式设计变得非常容易实现。
-- 我们可以创建和快速迭代。
+- 我们可以创建产品并且快速迭代。
 - 我们可以一天发布多个版本。
 
 [原文链接](https://thoughtbot.com/playbook/choose-platforms/mobile-refers-to-the-user-not-the-device)
