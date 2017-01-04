@@ -20,10 +20,10 @@
   - [使用可扩展的编辑器](chapter-3-laptop-setup/use-an-extensible-editor.md)
 * 计划
   - [流程要因产品和团队而定](chapter-4-planning/adapt-process-to-the-products-needs.md)
-  - [每日站立会议可以建立信任和保持动量](chapter-4-planning/daily-standups-build-trust.md)
-  - [没有什么比面对面沟通更有效](chapter-4-planning/in-person-communication.md)
-  - [使用轻量级流程来管理优先级和使得流程可视化](chapter-4-planning/manage-priorities-with-a-lightweight-process.md)
-  - [每周会面来讨论成果、错误和未来计划](chapter-4-planning/meet-weekly-to-discuss-successes-failures-and-plans.md)
+  - [每日站立会议可以建立信任和保持冲劲](chapter-4-planning/daily-standups-build-trust.md)
+  - [没有比当面沟通更有效的沟通方式](chapter-4-planning/in-person-communication.md)
+  - [使用轻量级程序来管理任务优先级并可视化流程](chapter-4-planning/manage-priorities-with-a-lightweight-process.md)
+  - [每周碰面讨论成果、错误和未来计划](chapter-4-planning/meet-weekly-to-discuss-successes-failures-and-plans.md)
   - [一个高效的远程团队不是偶然的产物](chapter-4-planning/working-remotely.md)
 * 设计
   - [总是带着个速写板](chapter-5-designing/always-carry-a-sketchbook.md)
