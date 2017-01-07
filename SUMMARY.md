@@ -31,7 +31,7 @@
   - [什么是交互设计？](chapter-5-designing/what-is-interaction-design.md)
   - [什么是用户界面设计？](chapter-5-designing/what-is-user-interface-design.md)
   - [什么是视觉设计？](chapter-5-designing/what-is-visual-design.md)
-  - [使用HTML和CSS做线框图](chapter-5-designing/wireframing-in-html-and-css.md)
+  - [使用 HTML 和 CSS 做线框图](chapter-5-designing/wireframing-in-html-and-css.md)
 * 开发
   - [验收测试](chapter-6-developing/acceptance-tests.md)
   - [代码审查](chapter-6-developing/code-reviews.md)
