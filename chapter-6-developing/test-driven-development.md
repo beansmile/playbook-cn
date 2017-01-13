@@ -1,6 +1,6 @@
 # 测试驱动开发
 
-[测试驱动开发](http://www.extremeprogramming.org/rules/testfirst.html)可能是我们遵守的最重要的极限编程原则。
+[测试驱动开发](http://www.extremeprogramming.org/rules/testfirst.html)（Test-Driven Development，TDD）可能是我们遵守的最重要的极限编程原则。
 
 业务可以从 TDD 受益：
 
