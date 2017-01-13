@@ -4,6 +4,6 @@
 
 [Git](http://git-scm.com/) 是由 Linus Torvalds 开发的开源的代码管理系统。它很快，并且对分支支持得很好。
 
-我们使用 [GitHub](http://github.com/) 来托管我们的代码仓库。
+我们使用 [GitHub](http://github.com/) 来托管我们的 Git 仓库。
 
 [原文链接](https://thoughtbot.com/playbook/developing/version-control)
