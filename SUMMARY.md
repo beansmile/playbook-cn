@@ -48,7 +48,7 @@
   - [Log收集](chapter-7-production/log-collection.md)
   - [交易处理](chapter-7-production/payment-processing.md)
   - [性能监控](chapter-7-production/performance-monitoring.md)
-  - [产品清单](chapter-7-production/production-checklist.md)
+  - [生产环境检查清单](chapter-7-production/production-checklist.md)
   - [SSL 证书](chapter-7-production/ssl-certificates.md)
   - [事务性邮件](chapter-7-production/transactional-email.md)
 * 度量
