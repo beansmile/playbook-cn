@@ -27,4 +27,4 @@
 - 从这种风格的代码审查中得到的反馈更容易被应用。
 - 更不容易忘记具体的情境（「为什么我会写这个？」）因为在作者头脑中它是鲜活的。
 
-[代码审查](https://thoughtbot.com/playbook/developing/code-reviews)
+[原文链接](https://thoughtbot.com/playbook/developing/code-reviews)

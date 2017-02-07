@@ -13,10 +13,10 @@
 * 选择平台
   - [「移动」是指用户，而不是设备](chapter-2-choose-platforms/mobile-refers-to-the-user-not-the-device.md)
   - [在移动设备上原生编程至关重要](chapter-2-choose-platforms/native-matters-on-mobile-devices.md)
-  - [Rails 可以帮助产品快速面世](chapter-2-choose-platforms/rails-gets-web-products-to-market-quickly.md)
+  - [Rails 可使 web 产品快速推向市场](chapter-2-choose-platforms/rails-gets-web-products-to-market-quickly.md)
 * 笔记本设置
   - [自动化你的开发环境](chapter-3-laptop-setup/automate-your-development-environment.md)
-  - [使用 dotfiles 来分享设置](chapter-3-laptop-setup/share-configuration-with-dotfiles.md)
+  - [使用 dotfiles 分享设置](chapter-3-laptop-setup/share-configuration-with-dotfiles.md)
   - [使用可扩展的编辑器](chapter-3-laptop-setup/use-an-extensible-editor.md)
 * 计划
   - [流程要因产品和团队而定](chapter-4-planning/adapt-process-to-the-products-needs.md)
@@ -45,7 +45,7 @@
   - [域名和 DNS](chapter-7-production/domain-names-and-dns.md)
   - [错误追踪](chapter-7-production/error-tracking.md)
   - [主机托管](chapter-7-production/hosting.md)
-  - [Log收集](chapter-7-production/log-collection.md)
+  - [日志收集](chapter-7-production/log-collection.md)
   - [交易处理](chapter-7-production/payment-processing.md)
   - [性能监控](chapter-7-production/performance-monitoring.md)
   - [生产环境检查清单](chapter-7-production/production-checklist.md)
@@ -56,11 +56,11 @@
   - [A/B 测试](chapter-8-measuring/ab-testing.md)
   - [功能旗标](chapter-8-measuring/feature-flags.md)
   - [测量](chapter-8-measuring/instrumentation.md)
-  - [订阅量度量](chapter-8-measuring/subscription-metrics.md)
+  - [订阅指标](chapter-8-measuring/subscription-metrics.md)
 * 我们的公司
   - [招聘](chapter-9-our-company/hiring.md)
   - [运营](chapter-9-our-company/operations.md)
   - [原则](chapter-9-our-company/principles.md)
-  - [销售](chapter-9-our-company/sales.md)
+  - [营销](chapter-9-our-company/sales.md)
   - [分享](chapter-9-our-company/sharing.md)
   - [时间](chapter-9-our-company/time.md)

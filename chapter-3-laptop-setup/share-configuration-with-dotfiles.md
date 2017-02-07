@@ -1,4 +1,4 @@
-# 使用 dotfiles 共享设置
+# 使用 dotfiles 分享设置
 
 「Dotfile」是 UNIX 中配置文件的通用术语，通常以一个点开始（例如 .vimrc），并且位于在你的 home 目录中。包括 Vim 在内的大多数的 UNIX 程序在启动时都会加载一个 dotfile。
 
