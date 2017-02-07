@@ -10,3 +10,5 @@
 - 向系统功能中的其他用户发消息
 
 我们直接使用 SendGrid，而不是 Heroku 的 add-on，以避免和其他在 Heroku 上而且在同一个 IP 组内乱发邮件的用户被归到一起。
+
+[原文链接](https://thoughtbot.com/playbook/production/transactional-email)

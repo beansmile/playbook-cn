@@ -11,7 +11,7 @@
 
 如果我们的客户需要从投资人那里筹措资金，以下这些数字可以认为是已经为争取投资做好准备了。
 
-- [LTV 比获取客户成本（CAC）大 3 到 5 倍](http://www.forentrepreneurs.com/startup-killer/)。
+- [LTV 比获取客户成本（CAC）大 3 到 5 倍](http://www.forentrepreneurs.com/startup-killer/)
 - [MRR 的月度增长是 10% 到 30%](http://www.forentrepreneurs.com/startup-killer/)
 - [年度流失率是 5 - 7%](http://sixteenventures.com/saas-churn-rate)
 

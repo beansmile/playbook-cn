@@ -1,7 +1,6 @@
 # 使用可扩展的编辑器
 
-> 纯文本不会过时。它可以帮助你提升工作效率、简化调试和测试。编辑器应该是你手的延伸；要确保你的编辑器是可配置、可扩展以及可编程的。
-> - The Pragmatic Programmer
+> 纯文本不会过时。它可以帮助你提升工作效率、简化调试和测试。编辑器应该是你手的延伸；要确保你的编辑器是可配置、可扩展以及可编程的。 - The Pragmatic Programmer
 
 几乎所有的 thoughtbot 成员都使用 [Vim](https://thoughtbot.com/upcase/vim) 作为文本编辑器。
 

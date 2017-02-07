@@ -157,4 +157,4 @@
 
 在 Harvest 的项目信息中，我们会登记谁应该在这个项目中收到佣金。我们常常给参与营销阶段的两三个人分 5% 的佣金。
 
-[英文原文](https://thoughtbot.com/playbook/our-company/sales)
+[原文链接](https://thoughtbot.com/playbook/our-company/sales)
